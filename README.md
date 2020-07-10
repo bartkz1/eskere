@@ -1,1 +1,1 @@
-# eskere
+# CSGO-C#/C++ loader
